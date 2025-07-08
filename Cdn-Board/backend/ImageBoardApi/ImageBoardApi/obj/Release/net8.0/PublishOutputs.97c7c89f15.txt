@@ -1,0 +1,7 @@
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\ImageBoardApi.exe
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\ImageBoardApi.dll
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\ImageBoardApi.deps.json
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\ImageBoardApi.runtimeconfig.json
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\ImageBoardApi.pdb
