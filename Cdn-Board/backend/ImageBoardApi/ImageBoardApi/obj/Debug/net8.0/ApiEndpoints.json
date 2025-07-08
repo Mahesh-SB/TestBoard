@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ImageBoardApi.Controller.ImageController",
+    "Method": "GetImage",
+    "RelativePath": "api/Image/{filename}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filename",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

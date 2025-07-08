@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "B/wLDm64oH6nPK9JhDCSlKP266DhSi0WQcqcq5EQ3Dw=",
+  "Source": "ImageBoardApi",
+  "BasePath": "_content/ImageBoardApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
