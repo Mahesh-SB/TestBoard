@@ -27,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ImageBoardApi",
+              "Title": "ImageBoardApi.csproj",
               "DocumentMoniker": "C:\\D Drive\\Project\\TestBoard\\TestBoard\\Cdn-Board\\backend\\ImageBoardApi\\ImageBoardApi\\ImageBoardApi.csproj",
               "RelativeDocumentMoniker": "ImageBoardApi\\ImageBoardApi.csproj",
               "ToolTip": "C:\\D Drive\\Project\\TestBoard\\TestBoard\\Cdn-Board\\backend\\ImageBoardApi\\ImageBoardApi\\ImageBoardApi.csproj",
               "RelativeToolTip": "ImageBoardApi\\ImageBoardApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-08T17:50:18.503Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "ImageBoardApi\\Controller\\ImageController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T17:22:18.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T17:22:18.864Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "ImageBoardApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T17:15:47.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T17:15:47.911Z"
             }
           ]
         }

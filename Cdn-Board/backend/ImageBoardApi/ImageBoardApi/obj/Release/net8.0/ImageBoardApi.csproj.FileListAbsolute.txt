@@ -28,3 +28,5 @@ C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoar
 C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\ImageBoardApi.pdb
 C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\ImageBoardApi.genruntimeconfig.cache
 C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\ref\ImageBoardApi.dll
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\bin\Release\net8.0\images\react.svg
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\bin\Release\net8.0\images\vite.svg

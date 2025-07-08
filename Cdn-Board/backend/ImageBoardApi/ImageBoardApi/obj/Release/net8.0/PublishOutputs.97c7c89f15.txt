@@ -1,3 +1,5 @@
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\images\react.svg
+C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\images\vite.svg
 C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\ImageBoardApi.exe
 C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
 C:\D Drive\Project\TestBoard\TestBoard\Cdn-Board\backend\ImageBoardApi\ImageBoardApi\obj\Release\net8.0\PubTmp\Out\appsettings.json

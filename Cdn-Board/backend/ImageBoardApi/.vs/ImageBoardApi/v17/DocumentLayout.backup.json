@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\D Drive\\Project\\TestBoard\\TestBoard\\Cdn-Board\\backend\\ImageBoardApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32BEE18A-3AB0-43C8-86B0-FAA58843F590}|ImageBoardApi\\ImageBoardApi.csproj|c:\\d drive\\project\\testboard\\testboard\\cdn-board\\backend\\imageboardapi\\imageboardapi\\controller\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32BEE18A-3AB0-43C8-86B0-FAA58843F590}|ImageBoardApi\\ImageBoardApi.csproj|solutionrelative:imageboardapi\\controller\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32BEE18A-3AB0-43C8-86B0-FAA58843F590}|ImageBoardApi\\ImageBoardApi.csproj|c:\\d drive\\project\\testboard\\testboard\\cdn-board\\backend\\imageboardapi\\imageboardapi\\imageboardapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32BEE18A-3AB0-43C8-86B0-FAA58843F590}|ImageBoardApi\\ImageBoardApi.csproj|solutionrelative:imageboardapi\\imageboardapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32BEE18A-3AB0-43C8-86B0-FAA58843F590}|ImageBoardApi\\ImageBoardApi.csproj|c:\\d drive\\project\\testboard\\testboard\\cdn-board\\backend\\imageboardapi\\imageboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32BEE18A-3AB0-43C8-86B0-FAA58843F590}|ImageBoardApi\\ImageBoardApi.csproj|solutionrelative:imageboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BEE18A-3AB0-43C8-86B0-FAA58843F590}|ImageBoardApi\\ImageBoardApi.csproj|c:\\d drive\\project\\testboard\\testboard\\cdn-board\\backend\\imageboardapi\\imageboardapi\\controller\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BEE18A-3AB0-43C8-86B0-FAA58843F590}|ImageBoardApi\\ImageBoardApi.csproj|solutionrelative:imageboardapi\\controller\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ImageBoardApi.csproj",
+              "DocumentMoniker": "C:\\D Drive\\Project\\TestBoard\\TestBoard\\Cdn-Board\\backend\\ImageBoardApi\\ImageBoardApi\\ImageBoardApi.csproj",
+              "RelativeDocumentMoniker": "ImageBoardApi\\ImageBoardApi.csproj",
+              "ToolTip": "C:\\D Drive\\Project\\TestBoard\\TestBoard\\Cdn-Board\\backend\\ImageBoardApi\\ImageBoardApi\\ImageBoardApi.csproj",
+              "RelativeToolTip": "ImageBoardApi\\ImageBoardApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T17:50:18.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ImageController.cs",
               "DocumentMoniker": "C:\\D Drive\\Project\\TestBoard\\TestBoard\\Cdn-Board\\backend\\ImageBoardApi\\ImageBoardApi\\Controller\\ImageController.cs",
               "RelativeDocumentMoniker": "ImageBoardApi\\Controller\\ImageController.cs",
@@ -30,8 +47,7 @@
               "RelativeToolTip": "ImageBoardApi\\Controller\\ImageController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T17:22:18.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T17:22:18.864Z"
             },
             {
               "$type": "Document",
@@ -41,7 +57,7 @@
               "RelativeDocumentMoniker": "ImageBoardApi\\Program.cs",
               "ToolTip": "C:\\D Drive\\Project\\TestBoard\\TestBoard\\Cdn-Board\\backend\\ImageBoardApi\\ImageBoardApi\\Program.cs",
               "RelativeToolTip": "ImageBoardApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T17:15:47.911Z"
             }

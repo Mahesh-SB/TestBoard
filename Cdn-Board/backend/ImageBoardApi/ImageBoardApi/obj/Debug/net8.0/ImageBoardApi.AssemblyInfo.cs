@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageBoardApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fc7e833d217a21e93e56c22ad028a9114bd0a36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db8c79748411d47e41a59814609ae4b262a054f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageBoardApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageBoardApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
